@@ -1,0 +1,17 @@
+.navbar-logo{
+  height: 85px;
+  width: auto;
+  padding: 10px 10px 10px 10px;
+}
+
+.navbar-list-item {
+  font-family: sans-serif;
+  font-size: 1.4em;
+  padding: 18px 10px 0px 10px;
+}
+.navbar-nav>li>a{
+  color: #fff !important;
+}
+.navbar-default{
+  background-color: #212121;
+}
